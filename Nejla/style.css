@@ -1,0 +1,40 @@
+body{
+       
+background-image:linear-gradient(to right,red,yellow) ;
+}
+
+div{
+   width: 300px;
+   height: 400px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 30px;
+   background-color: #e6cab3;
+   margin-top: 100px;
+   margin-left: 500px;
+   background-image:linear-gradient( to right,#b8b894,#ffffb3);
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 10%;
+    border-radius: 10px;
+    border-top: 50px;
+    margin-top: 10px;
+}
+
+button{
+    style="background-color:#333333; 
+    font-size: 15px;
+    border-radius: 100px;
+    margin-right: 200px;
+
+}
+
+
+
+    
+
+}

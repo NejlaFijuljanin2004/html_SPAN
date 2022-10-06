@@ -1,0 +1,27 @@
+
+
+.aa{
+   
+    width: 250px;
+    height: 80px;
+    margin: auto;
+
+    
+}
+.ab{
+    width: 300px;
+    height: 200px;
+    border:2px;
+    margin-left: 990px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.abc{
+    width: 300px;
+    height: 200px;
+    border:2px;
+    margin-right: 990px;
+    margin-bottom: 900px;
+    text-align: center;
+}
