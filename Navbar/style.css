@@ -9,12 +9,14 @@ h1{
     position: absolute;
     float: left;
     margin-left: 2%;
-    color: #39ca74;
+    color: #ffffff;
+
     font-family: 'Open Sans', sans-serif;
 }
 
 span{
-    color: #ffffff;
+    color: #39ca74;
+
 }
 
 ul{
