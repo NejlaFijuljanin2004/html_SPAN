@@ -1,0 +1,49 @@
+.a{
+    color: white;
+}
+input{
+    width: 250px;
+    height: 40px;
+
+}
+.main{
+    width: 500px;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    flex-direction: column;
+    border: 1px solid ;
+   
+   
+ 
+}
+.second{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    background-color: white;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+ul{
+    float: right;
+    list-style: none;
+   margin-top: 0%;
+   margin-right: 10%;
+}
+
+   ul li{
+    font-size: 25px
+}
+ul li a{
+    width: 30%;
+    height: 20%;
+    text-decoration: none;
+    color: rgb(16, 16, 18);
+    padding: 30px 35px;
+    border: 2px solid transparent;
+    transition: 0,6 ease;
+}
