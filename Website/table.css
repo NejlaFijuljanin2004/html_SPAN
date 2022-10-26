@@ -1,0 +1,24 @@
+body{
+    background-image:linear-gradient( to right,#816a48,#52919c);
+}
+table, th, td {
+    border-collapse: collapse;
+    width: 600px;
+    height: 50px;
+    
+   
+}
+  tr:nth-child(even){
+    background-color: #363536;
+
+  }
+  th{
+    color: rgb(87, 87, 107);
+    text-align: left;
+
+  }
+  tabe{
+    position: absolute;
+    top: 50%;
+    left: 33%;
+  }
